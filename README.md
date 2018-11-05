@@ -10,6 +10,7 @@
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Quick-start](#quick-start)
 - [Status](#status)
 - [Content of the framework](#content-of-the-framework)
@@ -17,6 +18,7 @@
 - [Customizing](#customizing)
 - [Contributing](#contributing)
 - [About](#about)
+- [Showcases](#showcases)
 - [Credits and license](#credits-and-license)
 
 ## Quick-start
@@ -28,8 +30,8 @@ There are several options available:
 - Install with npm: `npm install papercss`
 - Install with yarn: `yarn install papercss`
 - Import it using a CDN (it will automatically download the latest version):
-    - `https://unpkg.com/papercss/dist/paper.min.css`
-    - `https://unpkg.com/papercss/dist/paper.css`
+  - `https://unpkg.com/papercss/dist/paper.min.css`
+  - `https://unpkg.com/papercss/dist/paper.css`
 
 ## Status
 
@@ -90,6 +92,11 @@ The goal of PaperCSS is to be as minimal as possible when adding classes. For ex
 Feel free to use it for wireframes, webapps, blogs, or whatever else you can think of!
 
 If you are new to Git or SCSS, this would be a great project to get your feet wet with. I'd be happy to help walk you through the pull request process.
+
+## Showcases
+
+- [Admin dashboard template built with PaperCSS](https://github.com/mazipan/papercss-admin-dashboard-template)
+- Want to showcase your project built with PaperCSS? Open an issue!
 
 ## Credits and license
 
